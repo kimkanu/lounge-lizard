@@ -1,0 +1,4 @@
+{
+  "CLIENT_ID": "55a80a30-eea6-455a-929e-2e1a7b6cf8f3",
+  "AUTH_URI": "https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=55a80a30-eea6-455a-929e-2e1a7b6cf8f3&response_type=code&redirect_uri=http%3A%2F%2Flocalhost%2Floungelizard%2f&response_mode=query&scope=https%3A%2F%2Fgraph.microsoft.com%2Fcalendars.read%20https%3A%2F%2Fgraph.microsoft.com%2Fmail.send&state=12345"
+}

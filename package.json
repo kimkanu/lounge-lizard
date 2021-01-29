@@ -13,7 +13,7 @@
     "lounge-lizard": "./scripts/start.js"
   },
   "scripts": {
-    "start": "node scripts/start.js",
+    "start": "nodemon scripts/start.js",
     "install": "fetch-yode",
     "build": "yackage build out --cache-dir yode",
     "dist": "yackage dist out --cache-dir yode"
@@ -38,12 +38,15 @@
     "download-yue": "2.x",
     "fetch-yode": "0.2.0",
     "fs-extra": "5.0.0",
+    "global": "^4.4.0",
     "gui": "0.6.3",
     "html-to-mrkdwn": "^3.0.0",
     "keytar": "4.3.0",
     "mini-signals": "1.1.1",
     "node-notifier": "^6.0.0",
+    "nodemon": "^2.0.7",
     "opn": "5.3.0",
+    "os-name": "^4.0.0",
     "qs": "^6.9.4",
     "readable-size": "0.2.0",
     "request": "^2.88.0",
